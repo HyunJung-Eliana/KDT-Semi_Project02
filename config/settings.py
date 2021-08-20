@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'ecojejudb',
         'USER': 'root',
-        'PASSWORD': '1111',
+        'PASSWORD': '111111',
         'HOST': 'localhost',
         'PORT': '',
     }
